@@ -1,0 +1,5 @@
+
+yarn add express ejs express-ejs-layouts
+yarn add nodemon -D
+
+ yarn dev
