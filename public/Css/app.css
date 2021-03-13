@@ -1,0 +1,23 @@
+body {
+  font-family: "Lato", "sans-serif";
+  -webkit-font-smoothing: "antiliased";
+  color: #fe5f1e;
+}
+
+nav li:last-child a {
+  background-color: #fe5f1e;
+}
+nav li:last-child a:hover {
+  background: #fe5f1e;
+}
+
+nav li a {
+  transition: all 0.3s ease-in-out;
+}
+nav li a:hover {
+  color: #fe5f1e;
+}
+
+section.hero {
+  background: aquamarine;
+}
