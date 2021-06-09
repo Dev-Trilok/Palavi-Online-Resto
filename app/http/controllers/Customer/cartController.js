@@ -18,7 +18,7 @@ function cartController(){
                     totalPrice:0
                 }
                 let cart= req.session.cart
-
+                
                
             }
             console.log(req.body);
