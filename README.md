@@ -3,11 +3,11 @@
 - This project is covered with <b> EJS - TailwindCSS, Node.js, Express.js, MongoDB, Socket.io </b> for routes and sockets
 
 ## Demo
-- See the [public demo](https://realtime-pizza-order.herokuapp.com/)
+- See the [public demo](#)
 
 ## Installation
 Clone this repo
 ### Server
-- Config **.env** from **sample.env**
-- Run **npm install**
+- Config **.env** 
+- Run **yarn**
 - Run **yarn dev**
