@@ -3,7 +3,7 @@
 - This project is covered with <b> EJS - TailwindCSS, Node.js, Express.js, MongoDB, Socket.io </b> for routes and sockets
 
 ## Demo
-- See the [public demo](#)
+- See the [deploy soon](#)
 
 ## Installation
 Clone this repo
