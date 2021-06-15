@@ -328,6 +328,11 @@ body {
   color: #232323;
 }
 
+header1 {
+  font-size: x-large;
+  font-family: cursive;
+}
+
 nav li:last-child a {
   background-color: #FE5F1E;
 }

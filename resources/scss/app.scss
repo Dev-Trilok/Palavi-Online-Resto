@@ -7,7 +7,10 @@ body {
 	-webkit-font-smoothing: antialiased;
 	color: $dark;
 }
-
+header1{
+	font-size: x-large;
+    font-family: cursive;
+}
 nav li:last-child a {
 	background-color: $primary;
 	&:hover {

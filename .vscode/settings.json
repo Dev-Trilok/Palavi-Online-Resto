@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "onWindowChange",
+    "editor.wordWrap": "on",
+    "editor.unfoldOnClickAfterEndOfLine": true,
+    "bracketPairColorizer.activeScopeCSS": [
+    
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}; opacity: 0.5"
+    ]
+}

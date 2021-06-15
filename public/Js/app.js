@@ -26654,8 +26654,8 @@ socket.on('orderUpdated', function (data) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! F:\realtime-pizza-order\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! F:\realtime-pizza-order\resources\scss\app.scss */"./resources/scss/app.scss");
+__webpack_require__(/*! C:\Users\LaluPaluMona\Documents\Express\Pizzza King\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\LaluPaluMona\Documents\Express\Pizzza King\resources\scss\app.scss */"./resources/scss/app.scss");
 
 
 /***/ })
