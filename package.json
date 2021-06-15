@@ -1,7 +1,7 @@
 {
-  "name": "realtime-pizza-order",
+  "name": "Palavi Online Resto",
   "version": "1.0.0",
-  "description": "Realtime pizza order app",
+  "description": "Palavi Online Resto",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
@@ -10,9 +10,7 @@
     "watch": "npm run development -- --watch",
     "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
   },
-  "repository": "https://github.com/nvlinh99/realtime-pizza-order.git",
-  "author": "Linh Nguyen Vu <nguyenvulinh99@gmail.com>",
-  "license": "MIT",
+  "repository": "https://github.com/dev-trilok/Palavi-Online-Resto.git",
   "dependencies": {
     "axios": "^0.19.2",
     "bcryptjs": "^2.4.3",
