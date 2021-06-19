@@ -1,14 +1,12 @@
 {
-  "name": "Palavi Online Resto",
+  "name": "Palavi-Online-Resto",
   "version": "1.0.0",
-  "description": "Palavi Online Resto",
+  "description": "This project is covered with EJS - TailwindCSS, Node.js, Express.js, MongoDB, Socket.io for routes and sockets",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
-    "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "watch": "npm run development -- --watch",
-    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+    "watch": "npm run development -- --watch"
   },
   "repository": "https://github.com/dev-trilok/Palavi-Online-Resto.git",
   "dependencies": {
@@ -37,5 +35,8 @@
     "sass": "^1.26.10",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
+  },
+  "engines": {
+    "node": "12.18.0"
   }
 }
